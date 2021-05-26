@@ -1,0 +1,29 @@
+﻿body { background-color: aqua;
+       margin: 20px;
+       padding:30px;
+       border; 20px;
+       border-block-color: chartreuse;
+
+}
+
+div {
+
+    background-color: cornflowerblue;
+
+}
+
+
+#h2 {
+    font-family: Verdana;
+    font-size: large;
+    color: blueviolet;
+
+}
+#a {
+    position:center;
+}
+
+a:hover {
+    background: black;
+    color: white;
+}
